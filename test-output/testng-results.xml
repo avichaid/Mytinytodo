@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="56274" started-at="2018-11-26T23:30:15Z" finished-at="2018-11-26T23:31:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="56274" started-at="2018-11-26T23:30:15Z" finished-at="2018-11-26T23:31:12Z">
+      <class name="mytinytodo.net.tests.TestNGTest">
+        <test-method status="PASS" signature="openSite()[pri:0, instance:mytinytodo.net.tests.TestNGTest@4678c730]" name="openSite" is-config="true" duration-ms="6106" started-at="2018-11-26T23:30:15Z" finished-at="2018-11-26T23:30:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openSite -->
+        <test-method status="PASS" signature="simpleTask()[pri:1, instance:mytinytodo.net.tests.TestNGTest@4678c730]" name="simpleTask" duration-ms="1180" started-at="2018-11-26T23:30:21Z" finished-at="2018-11-26T23:30:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- simpleTask -->
+        <test-method status="PASS" signature="advancedTask()[pri:2, instance:mytinytodo.net.tests.TestNGTest@4678c730]" name="advancedTask" duration-ms="27966" started-at="2018-11-26T23:30:23Z" finished-at="2018-11-26T23:30:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- advancedTask -->
+        <test-method status="PASS" signature="searchTask()[pri:3, instance:mytinytodo.net.tests.TestNGTest@4678c730]" name="searchTask" duration-ms="4092" started-at="2018-11-26T23:30:51Z" finished-at="2018-11-26T23:30:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTask -->
+        <test-method status="PASS" signature="newList()[pri:4, instance:mytinytodo.net.tests.TestNGTest@4678c730]" name="newList" duration-ms="13248" started-at="2018-11-26T23:30:55Z" finished-at="2018-11-26T23:31:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newList -->
+        <test-method status="PASS" signature="closeSite()[pri:0, instance:mytinytodo.net.tests.TestNGTest@4678c730]" name="closeSite" is-config="true" duration-ms="3662" started-at="2018-11-26T23:31:08Z" finished-at="2018-11-26T23:31:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSite -->
+      </class> <!-- mytinytodo.net.tests.TestNGTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
